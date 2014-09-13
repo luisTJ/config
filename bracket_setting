@@ -1,0 +1,9 @@
+{
+    "debug.showErrorsInStatusBar": false,
+    "linting.collapsed": false,
+    "themes.theme": "dark-theme",
+    "jshint_options": {
+        "laxcomma": true
+    },
+    "useTabChar": true
+}
